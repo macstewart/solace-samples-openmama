@@ -2,7 +2,7 @@
 layout: tutorials
 title: Installation on Linux
 summary: This tutorial shows you how to get the Solace OpenMAMA bridge installed on Linux
-icon: installation.png
+icon: I_linux.svg
 ---
 
 <br><br>
@@ -14,7 +14,7 @@ Download pre-packaged OpenMAMA from the [OpenMAMA GitHub releases page](https://
 
 Install it with `rpm`:
 
-    $ sudo rpm --install openmama-6.2.0-1.el7.centos.x86_64.rpm
+    $ sudo rpm --install openmama-6.2.1-1.el7.centos.x86_64.rpm
 
 
 Files will be installed into `/opt/openmama` directory:

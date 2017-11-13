@@ -1,8 +1,8 @@
 ---
 layout: tutorials
 title: Solace Hello World
-summary: This tutorial demonstrates the most basic messaging interaction using OpenMAMA with the Solace middleware bridge.
-icon: hello-world.png
+summary: This tutorial demonstrates basic publishing using OpenMAMA with Solace messaging
+icon: I_Solace.svg
 links:
     - label: mama.properties
       link: /blob/master/src/helloworld/mama.properties
